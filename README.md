@@ -6,4 +6,4 @@ I was given a web application that was made with flash and told to recreate that
 
 I used jQuery UI for the drag and drop functionality and Angular for the rest of the app. 
 
-You can view the app at (https://samikas.github.io/apprix-work-sample/index.html)
+You can view the app at https://samikas.github.io/apprix-work-sample/index.html

@@ -1,14 +1,14 @@
-body{
+body {
     font-family: 'Catamaran', sans-serif;
     background-color: #e6e6e6;
 }
 
-h2{
-     color: #50b948;
-     letter-spacing: 3px;
+h2 {
+    color: #50b948;
+    letter-spacing: 3px;
 }
 
-#mainW{
+#mainW {
     position: relative;
     margin: auto;
     width: 950px;
@@ -19,109 +19,110 @@ h2{
 }
 
 /* First page */
-.info{
+.info {
     height: 95%;
     width: 95%;
     margin: auto;
 }
 
-#info-header{
-    width:480px;
+#info-header {
+    width: 480px;
 }
 
-#info-header h4, h2{
+#info-header h4,
+h2 {
     line-height: 1px;
 }
 
-#info-text{
+#info-text {
     font-size: 15px;
     line-height: 16px;
     width: 412px;
 }
 
-#arrow-icon{
-    width:45px;
-    height:auto;
+#arrow-icon {
+    width: 45px;
+    height: auto;
     padding-top: 10px;
 }
 
-#graph{
+#graph {
     width: 485px;
     margin-left: 425px;
-      user-select: none;
+    user-select: none;
 }
 
-.graph-header{
+.graph-header {
     margin-top: -20px;
     margin-bottom: 0px;
     text-align: center;
 }
 
-.first-block{
+.first-block {
     width: 210px;
     max-height: 370px;
     display: inline-block;
     float: left;
 }
 
-.box{
+.box {
     color: #ffffff;
     width: 210px;
     text-align: center;
     line-height: 21px;
-} 
+}
 
-.box h3{
+.box h3 {
     white-space: pre;
 }
 
-.green-box{ 
+.green-box {
     background-color: #50b948;
     padding-top: 2px;
     padding-bottom: 2px;
 }
 
-.green-box2{
+.green-box2 {
     background-color: #50b948;
     padding-top: 13px;
     padding-bottom: 13px;
 }
 
-.blue-box{
+.blue-box {
     background-color: #008bab;
-    padding: 0.1px;    
+    padding: 0.1px;
 }
 
-.yellow-box{
+.yellow-box {
     background-color: #f59024;
     padding-top: 8px;
     padding-bottom: 8px;
 }
 
-.plus{
-    margin-left: 33%; 
+.plus {
+    margin-left: 33%;
     height: 51px;
     padding: 6px;
 }
 
-.plus-grey{
-    margin: 7%; 
+.plus-grey {
+    margin: 7%;
     height: 35px;
 }
 
-.minus{
-    margin: 7%; 
+.minus {
+    margin: 7%;
     height: 35px;
 }
 
-#arrow{
+#arrow {
     display: inline;
     float: left;
     margin-top: 130px;
     width: 65px;
 }
 
-#arrow2{
+#arrow2 {
     height: 45px;
     bottom: 6%;
     position: absolute;
@@ -130,68 +131,68 @@ h2{
 
 /* Second page */
 
-#sec-page{
+#sec-page {
     width: 100%;
-    height:90%;
+    height: 90%;
 }
 
-#info-text{
-    position:relative;
+#info-text {
+    position: relative;
     font-size: 15px;
     line-height: 16px;
     width: 412px;
 }
 
-.sec-info-text{
-    position:relative;
+.sec-info-text {
+    position: relative;
     font-size: 15px;
     line-height: 16px;
     width: 330px;
-    margin-top:-4px;
+    margin-top: -4px;
     display: inline;
     float: left;
 }
 
-.black-box{
+.black-box {
     background-color: #4c4d4f;
     padding-bottom: 2px;
     padding-top: 2px;
-    width:190px;
+    width: 190px;
     display: inline;
     float: left;
 }
 
-.sec-info-text2{
+.sec-info-text2 {
     font-size: 15px;
     line-height: 16px;
     width: 290px;
-    margin-top:-4px;
+    margin-top: -4px;
     display: inline;
     float: left;
     padding-left: 45px;
 }
 
-.vertical-line1{
+.vertical-line1 {
     background-color: #4c4d4f;
     width: 5px;
     height: 12px;
-    margin:auto;
+    margin: auto;
     position: relative;
     top: 63px;
     left: -3%;
 }
 
-.vertical-line2{
+.vertical-line2 {
     background-color: #4c4d4f;
     width: 5px;
     height: 12px;
-    margin:auto;
+    margin: auto;
     position: relative;
     top: 63px;
     left: -353px;
 }
 
-.vertical-line3{
+.vertical-line3 {
     background-color: #4c4d4f;
     width: 5px;
     height: 12px;
@@ -202,7 +203,7 @@ h2{
     left: -527px;
 }
 
-.vertical-line4{
+.vertical-line4 {
     background-color: #4c4d4f;
     width: 5px;
     height: 12px;
@@ -213,7 +214,7 @@ h2{
     left: -300px;
 }
 
-.vertical-line5{
+.vertical-line5 {
     background-color: #4c4d4f;
     width: 5px;
     height: 12px;
@@ -224,28 +225,28 @@ h2{
     left: -64px;
 }
 
-#hr-line{
+#hr-line {
     position: relative;
     display: block;
     background-color: #4c4d4f;
     width: 710px;
     height: 5px;
-    margin:auto;
+    margin: auto;
     top: 63px;
 }
 
-.quiz-box{
-    width:190px;
-    height:310px;
+.quiz-box {
+    width: 190px;
+    height: 310px;
     position: relative;
-    top:21px;
+    top: 21px;
     float: left;
     display: inline-block;
     margin-right: 47px;
     border-radius: 0px 0px 40px 0px;
 }
 
-.quiz-box-lower{
+.quiz-box-lower {
     border-style: solid;
     border-width: 5px;
     border-color: #e6e6e6;
@@ -253,7 +254,7 @@ h2{
     border-radius: 0px 0px 40px 0px;
 }
 
-.quiz-box-lower p{
+.quiz-box-lower p {
     line-height: 15px;
     font-size: 12px;
     margin-top: 0px;
@@ -261,32 +262,32 @@ h2{
     margin: auto;
 }
 
-.red{
-    color:#E05314;
+.red {
+    color: #E05314;
     white-space: pre-line;
 }
 
-.quiz-box-last{
-    margin-right: 0px; 
+.quiz-box-last {
+    margin-right: 0px;
 }
 
-.quiz-box-inner{
+.quiz-box-inner {
     height: 65px;
-    background-color: #50b948; 
+    background-color: #50b948;
 }
 
-.quiz-box-inner-in{
+.quiz-box-inner-in {
     top: 8%;
     position: relative;
     height: 84%;
     width: 93%;
     margin: auto;
     background-color: #85c644;
-    border-radius: 15px 0px ; 
+    border-radius: 15px 0px;
 }
 
-.quiz-box-complete{
-    background-color:#50b948;
+.quiz-box-complete {
+    background-color: #50b948;
     height: 65px;
     width: 190px;
     position: relative;
@@ -294,7 +295,7 @@ h2{
     left: -6px;
 }
 
-.quiz-box-complete h3{
+.quiz-box-complete h3 {
     display: inline-block;
     position: relative;
     width: 65%;
@@ -302,53 +303,55 @@ h2{
     margin-left: -5px;
     line-height: 18px;
     color: white;
-    
+
 }
 
-.drag-div{
-    height:65px;
+.drag-div {
+    height: 65px;
     position: relative;
-    top:25px;
+    top: 25px;
     float: left;
     left: 5.5%;
 }
-.drag-box-under{
-    width:190px;
-    height:65px;
+
+.drag-box-under {
+    width: 190px;
+    height: 65px;
     background-color: #e6e6e6;
     border-radius: 0px 0px 0px 35px;
     position: relative;
     float: left;
-    margin-right:15px;
+    margin-right: 15px;
 }
-.drag-box-under-last{
+
+.drag-box-under-last {
     margin-right: 0px;
 }
 
-.drag-box{
-    width:190px;
-    height:65px;
-    margin-right:15px;
+.drag-box {
+    width: 190px;
+    height: 65px;
+    margin-right: 15px;
     background-color: #85c644;
     position: relative;
     display: inline;
     float: left;
     border-radius: 10px 0px;
-    cursor:pointer;
+    cursor: pointer;
 }
 
-.drag-box h3{
+.drag-box h3 {
     margin-top: 5px;
     color: white;
     font-size: 17px;
     text-align: center;
 }
 
-.drag-box-last{
+.drag-box-last {
     margin-right: 0px;
 }
 
-#quiz{
+#quiz {
     position: absolute;
     top: 145px;
     left: 250px;
@@ -358,7 +361,7 @@ h2{
     z-index: 2;
 }
 
-#quiz-upper{
+#quiz-upper {
     background-color: #58575c;
     height: 155px;
     width: inherit;
@@ -369,7 +372,7 @@ h2{
     border-bottom-style: none;
 }
 
-#quiz p{
+#quiz p {
     width: 90%;
     padding-left: 5%;
     color: white;
@@ -377,18 +380,18 @@ h2{
     position: relative;
 }
 
-#quiz-upper button{
+#quiz-upper button {
     width: 140px;
     height: 30px;
     text-align: center;
     line-height: 17px;
     display: inline;
     font-weight: 600;
-    cursor:pointer;
+    cursor: pointer;
 }
 
-#true-false{
-        width: inherit;
+#true-false {
+    width: inherit;
     color: white;
     text-align: center;
     /* margin-top: 45px; */
@@ -397,11 +400,11 @@ h2{
     top: 125px;
 }
 
-#true-false span{
+#true-false span {
     padding: 20px;
 }
 
-#quiz-lower{
+#quiz-lower {
     background-color: #e05314;
     height: 200px;
     width: inherit;
